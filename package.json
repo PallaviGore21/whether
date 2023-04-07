@@ -2,7 +2,7 @@
   "name": "whether-application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://PallaviGore21.github.io/whether-app",
+  "homepage": "http://PallaviGore21.github.io/whether",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
